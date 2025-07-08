@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/c0933bee-7ab1-4f46-83d4-387fcc0b5e64/thumbnail" >
+</p>
+
 <!--
 **jpbowen/jpbowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
